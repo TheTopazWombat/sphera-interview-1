@@ -27,3 +27,15 @@ Note - You are not allowed to use other frameworks or libraries
 ## Submission
 
 You have to fork this project and checkin all your changes into your fork. Once done, send your fork link to the person who contacted you for the interview
+
+## UPDATE
+
+To run the application...
+
+1. Clone the repo
+
+2. Navigate to the root directory of the repo, and run npm install
+
+3. Run npm start
+
+4. Access the application through localhost:8080
